@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "id": "demo-user-1",
+      "name": "مستخدم تجريبي",
+      "email": "demo@expense.ye",
+      "provider": "email",
+      "createdAt": 1792216701659
+    },
+    {
+      "id": "usr-0fe79569",
+      "name": "مستخدم Google",
+      "email": "user@gmail.com",
+      "provider": "google",
+      "salt": "c20704d2020504fc483c7fa33a387607",
+      "createdAt": 1792216701664
+    }
+  ],
+  "expenses": {
+    "demo-user-1": [],
+    "usr-0fe79569": [],
+    "guest-user": []
+  }
+}
